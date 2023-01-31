@@ -1,5 +1,7 @@
 Hola, este es mi primer proyecto con React Native y React, se trata de una aplicación en la cual vamos a consumir la API de Pexels y utilizaremos estos datos para mostrarlos, filtrarlos por una search, tendremos un pequeño paginado y podremos descargar estas imagenes a nuestro dispositivos mobiles.
 
+Puedes ver un video del funcionamiento en el siguiente enlace: https://www.youtube.com/watch?v=IB2Ac9argK8&ab_channel=LeandroFlorent%C3%ADn
+
 En caso de querer probarla puede clonar este repositorio, realizar el correspondiente npm install y la descarga de una app en su celular llamada Expo Go y una vez realizado el npm start en la aplicacion escanear el codigo QR que le aparecera en la consola en la aplicacion Expo Go disponible en Google Play Store.
 
 Esta aplicación consta de dos apartados el Home y el Detail, a continución paso a describirlos.
