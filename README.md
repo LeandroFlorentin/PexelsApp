@@ -10,14 +10,21 @@ En este apartado podremos ver en la parte superior derecha un texto Search, una 
 mas abajo podremos ver las imagenes, un total de 20 imagenes por pagina, al tocar en alguna imagen nos redirigira al detail de la misma.
 Al tocar el texto Search abriremos una barra de navegación y al tocar el boton podremos buscar.
 
-<img src='https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/home.jpeg?alt=media&token=1fb034a9-9f67-4873-a5b3-ff6c7d65d9c9' style="width:60px,height:300px"/>
-<img src='https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/homebuscar.jpeg?alt=media&token=c255b412-f4b5-4f90-86e5-5181fdc6d2ad'style="width:60px,height:300px"/>
+<img src='https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/home.jpeg?alt=media&token=1fb034a9-9f67-4873-a5b3-ff6c7d65d9c9' class="img"/>
+<img src='https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/homebuscar.jpeg?alt=media&token=c255b412-f4b5-4f90-86e5-5181fdc6d2ad'class="img"/>
 
 DETAIL.
 
 En esta sección tendremos la imagen con mas tamaño, el nombre del creador y al tocar en su nombre podremos navegar a su perfil.
 Tocando en el boton descargar se abrira una pestaña pidiendonos permiso para realizar la descarga y en caso de aceptar se realizara la misma y por ultimo en la parte inferior tendremos recomendaciones de imagenes en las cuales apareceran imagenes relacionadas a la imagen del detail.
 
-<img src='https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/detalle.jpeg?alt=media&token=7f26575f-2dff-4361-b5cd-db9f8ff29f93'style="width:60px,height:300px"/>
-<img src='https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/descarga.jpeg?alt=media&token=d4d69017-978e-4470-94b7-06a4744cd9a8'style="width:60px,height:300px"/>
+<img src='https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/detalle.jpeg?alt=media&token=7f26575f-2dff-4361-b5cd-db9f8ff29f93'class="img"/>
+<img src='https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/descarga.jpeg?alt=media&token=d4d69017-978e-4470-94b7-06a4744cd9a8'class="img"/>
+
+<style>
+  .img{
+    width:60px,
+    height:200px
+  }
+</style>
 
